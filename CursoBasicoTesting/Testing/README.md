@@ -1,4 +1,3 @@
-Hola Mundo
 <!-- PROJECT LOGO -->
 hola mundo
 <br />
